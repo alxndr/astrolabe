@@ -21,8 +21,6 @@
   "author": "ilyai",
   "license": "ISC",
   "dependencies": {
-    "@sentry/browser": "^7.12.1",
-    "@sentry/tracing": "^7.12.1",
     "circular-natal-horoscope-js": "git+https://github.com/ilyai/CircularNatalHoroscopeJS.git"
   },
   "devDependencies": {
