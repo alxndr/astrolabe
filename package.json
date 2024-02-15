@@ -6,8 +6,8 @@
     "lib": "lib"
   },
   "scripts": {
-    "start:dev": "webpack --watch",
     "build": "webpack --mode=production",
+    "start:dev": "webpack --watch",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
