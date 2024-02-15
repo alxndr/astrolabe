@@ -9,7 +9,8 @@ import "./styles/spinner.css";
 import "./styles/chart.css";
 import "./styles/settings.css";
 
-const UPDATE_INTERVAL = 1000;
+const SEC = 1000; // msec
+const UPDATE_INTERVAL = 13 * SEC;
 let chartUpdater;
 
 function run({ origin, transit, settings }) {
